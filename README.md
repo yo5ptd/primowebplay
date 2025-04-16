@@ -7,3 +7,5 @@ It will look something like this:
 ![image](image.jpg)
 
 Script is configured to run by default on http://primo.homeserver.hu/ but should run on any other site, just checkthe queryselector also as for PTP links look for paragraph as parents
+
+Based on https://github.com/vargaviktor/primotools/blob/master/win32/PTP2WAV.PAS
